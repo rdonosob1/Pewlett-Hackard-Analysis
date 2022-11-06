@@ -18,8 +18,10 @@ Finally, as mentioned above Pewlett Hackard was also looking to identify employe
 
 ## Summary
 As a result of this analysis, the count list above indicates that around 72,400 employees will retire in the next few years. Most of them holding senior positions (around 50,000 employees).  
+
 Finally, the second part of the analysis shows that there are over 1500 employees that were born between 1965-01-01 and 1965-12-31, and therefore are eligible to participate in a mentorship program.
+
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-o	There are over 90,000 jobs that will be vacant due to the "silver tsunami".
+  o	There are over 90,000 jobs that will be vacant due to the "silver tsunami".
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
