@@ -32,7 +32,7 @@ Finally, the second part of the analysis shows that there are over 1500 employee
   o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
  
  	• There are over 70,000 jobs that will be vacant due to the "silver tsunami" and there will need to be filled. This represents around 24% of the total vacants of the  company since it has around 300,000 employees. 
-
-  o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  
+  o Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
   •	Based on that, the answer to this question is yes. There are enough qualified retirement-ready employees to mentor the next generation since they represent almost 1/4 of PH workfore. 
