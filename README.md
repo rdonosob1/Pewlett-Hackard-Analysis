@@ -8,7 +8,7 @@ Pewlett Hackard a large company is looking toward several employee-retirements, 
 ## Results
 The first step of the analysis consisted in developing an ERD to understand the relationship that exist between the different CSV files provided. After that it was necessary to create a Retirement Titles table that holds all the titles of employees considering certain criteria (employees that were born between January 1, 1952 and December 31, 1955) that show who are the employees that are close to be retired.
 
-As a preliminary result, we encountered that there were duplicate entries for certain employees whose show multiple titles (it may be due to promotions). This is illustrated in the following table - Retirement_titles Table
+As a preliminary result, we encountered that there were duplicate entries for certain employees whose show multiple titles (it may be due to promotions). This is illustrated in the following table - **Retirement_titles Table
 
 ![Image](https://github.com/rdonosob1/Pewlett-Hackard-Analysis/blob/main/retirement_titles%20TABLE.png)
 
