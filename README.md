@@ -12,7 +12,7 @@ As a preliminary result, we encountered that there were duplicate entries for ce
 
 ![Image](https://github.com/rdonosob1/Pewlett-Hackard-Analysis/blob/main/retirement_titles%20TABLE.png)
 
-Due to that, it was essential to perform a new query to obtain a cleaner data. Therefore, the following table illustrates the data with the most recent titles per employee, as well as filtering employees that had left the company. **_Unique _titles Table_**
+Due to that, it was essential to perform a new query to obtain a cleaner data. Therefore, the following table illustrates the data with the most recent titles per employee, as well as filtering employees that had left the company. **_Unique_titles_Table_**
 
 ![Image](https://github.com/rdonosob1/Pewlett-Hackard-Analysis/blob/main/unique_titles%20TABLE.png)
 
